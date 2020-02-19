@@ -64,6 +64,7 @@ t.test(x = apag30, y = apal30, var.equal = T)
 
 ```
 
+This verifies the relationship described in part b. If the difference between the two datasets was 0 then the null hypothesis would be true. However, because the difference is multiplicative and vary by both their location and spread the difference is not equal to 0. 
 
 # 3.1 Helsel
 ```{r}
